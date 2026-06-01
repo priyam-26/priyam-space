@@ -618,6 +618,69 @@ section {
   transform: translateY(0);
 }
 
+/* FOOTER */
+
+.footer {
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 40px;
+
+  background: rgba(255,255,255,0.03);
+  backdrop-filter: blur(10px);
+}
+
+.footer-line {
+  width: 120px;
+  height: 2px;
+  margin: 0 auto 25px;
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    #f5deb3,
+    transparent
+  );
+}
+
+.footer p {
+  color: rgba(255,255,255,0.75);
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.footer-name {
+  color: #f5deb3;
+  font-weight: 600;
+}
+
+.heart {
+  display: inline-block;
+  color: #ff4d6d;
+  text-shadow: 0 0 5px #ff4d6d,
+               0 0 10px #ff4d6d,
+               0 0 20px #ff4d6d;
+  margin: 0 4px;
+  animation: heartbeat 1.5s infinite;
+}
+
+@keyframes heartbeat {
+  0%, 100% {
+    transform: scale(1);
+  }
+
+  25% {
+    transform: scale(1.2);
+  }
+
+  50% {
+    transform: scale(0.95);
+  }
+
+  75% {
+    transform: scale(1.15);
+  }
+}
+
 /* Cursor */
 .cursor {
   margin-left: 5px;

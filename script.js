@@ -69,7 +69,7 @@ function type() {
 
 setTimeout(type, 400);
 
-// SCROLL ANIMATION (INTERSECTION OBSERVER)
+// SCROLL ANIMATION
 
 const observer = new IntersectionObserver(
   (entries) => {

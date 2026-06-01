@@ -40,6 +40,7 @@ Portfolio/
 
 1. Clone or download the repository
 2. Open `index.html` in your browser
+3. Ensure an active internet connection for external CDN resources
 
 ---
 
@@ -59,6 +60,7 @@ It combines clean design with interactive elements to create an engaging user ex
 ## 👨‍💻 Author
 
 Priyam Prabhat
+Computer Science Student | Web Development | Cybersecurity
 
 ---
 
