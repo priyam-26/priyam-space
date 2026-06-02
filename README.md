@@ -52,14 +52,14 @@ https://priyam-26.github.io/priyam-space/
 
 ## 📌 About
 
-This portfolio represents my journey as a Computer Science student exploring web development and cybersecurity.
+This portfolio represents my journey as a Computer Science student exploring web development and cybersecurity.<br>
 It combines clean design with interactive elements to create an engaging user experience.
 
 ---
 
 ## 👨‍💻 Author
 
-Priyam Prabhat
+**Priyam Prabhat**
 Computer Science Student | Web Development | Cybersecurity
 
 ---
