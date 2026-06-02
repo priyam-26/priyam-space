@@ -59,7 +59,7 @@ It combines clean design with interactive elements to create an engaging user ex
 
 ## 👨‍💻 Author
 
-**Priyam Prabhat**
+**Priyam Prabhat**<br>
 Computer Science Student | Web Development | Cybersecurity
 
 ---
